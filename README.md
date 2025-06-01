@@ -19,7 +19,7 @@ Bu projenin amacı, üniversite öğrencilerinin fikir, düşünce ve anıların
 | Tala Kibar  | Frontend Geliştirici | React.js ile kullanıcı arayüzü geliştirme                   |
 | Onur Kerem  | Frontend Geliştirici | Responsive tasarım ve kullanıcı etkileşimleri               |
 | Muaz Radwan | Backend Geliştirici  | API geliştirme, kullanıcı ve içerik CRUD işlemleri          |
-| Ali İmbrika | Backend Geliştirici  | Laravel üzerinde yetkilendirme ve sunucu işlemleri          |
+| Ali İmbrika | Backend Geliştirici  | Laravel üzerinde API geliştirme, yetkilendirme ve sunucu işlemleri          |
 | Selman Çetin| Veritabanı Sorumlusu | MySQL Workbench ile veri modeli tasarımı                    |
 | Ali Doran   | Veritabanı Sorumlusu | Laravel üzerinden veri ilişkileri kurulumu                  |
 
