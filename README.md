@@ -43,15 +43,16 @@ dijitalleştirmek ve katılımcıların sertifika süreçlerini otomatikleştirm
 ## 🔗 Sosyal & Topluluk Paylaşımları
 
 - ✅ **GitHub deposu açıldı ve proje kodları yüklendi.**  
-  🔗 [GitHub Proje Sayfası]([https://github.com/sizin-linkiniz](https://github.com/imbirikaa/Ogrenci-Teskilati))
+  🔗 [GitHub Proje Sayfası](https://github.com/imbirikaa/Ogrenci-Teskilati)
 
 - ✅ **LinkedIn üzerinden proje tanıtımı yapıldı.**  
-  🔗 [LinkedIn Gönderisi]([https://linkedin.com/posts/sizin-linkiniz](https://www.linkedin.com/posts/ali-doran-4b8172261_%C3%B6%C4%9Frenci-te%C5%9Fkilat%C4%B1-bro%C5%9F%C3%BCr-activity-7335021382226927616-1Qr9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBGI0wBdnKg3bjpTWivTLJdphk9PX1fNpY))
+  🔗 [LinkedIn Gönderisi](https://www.linkedin.com/posts/ali-doran-4b8172261_%C3%B6%C4%9Frenci-te%C5%9Fkilat%C4%B1-bro%C5%9F%C3%BCr-activity-7335021382226927616-1Qr9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBGI0wBdnKg3bjpTWivTLJdphk9PX1fNpY)
 
 - ✅ **Tüm ekip üyeleri paylaşımda etiketlendi.**
 
 - ✅ **Potansiyel müşteri, yatırımcı ve bağışçılara yönelik tanıtım mesajı oluşturuldu ve duyuruldu.**  
   İletişim için: +90 552 216 08 70
+
 
 ---
 
